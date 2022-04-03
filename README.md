@@ -1,5 +1,5 @@
 # FundReortAnalyzer
-Python tool for Chinese fund report gather &amp; analyzer pdf information
+Python tool for Chinese fund report gather &amp; analyse pdf information
 
 [![LICENSE](https://img.shields.io/badge/license-MIT%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
